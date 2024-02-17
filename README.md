@@ -21,3 +21,8 @@ Today I Learned
         - 함수형 인터페이스와 람다
         - 인터페이스의 변화
     - CodingTest Level 2 >> 1문제
+- 2024_02_17
+    - JAVA 8 (백기선)
+        - Stream
+        - Optional
+    - CodingTest Level 2 >> 1문제
