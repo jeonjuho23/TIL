@@ -26,3 +26,9 @@ Today I Learned
         - Stream
         - Optional
     - CodingTest Level 2 >> 1문제
+- 2024_02_18
+    - Java 8 (백기선)
+        - Date/Time
+        - CompletableFuture
+        - ( 완강 )
+    - CodingTest Level 2 >> 1문제
