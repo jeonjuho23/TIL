@@ -32,3 +32,8 @@ Today I Learned
         - CompletableFuture
         - ( 완강 )
     - CodingTest Level 2 >> 1문제
+- 2024_02_19
+    - 네트워크 기본 (널널한 개발자)
+        - L3 수준에서 외울 것들
+        - L4 TCP, UDP
+    - CodingTest Level 2 >> 1문제
