@@ -1,6 +1,9 @@
 # TIL
 Today I Learned
 
+> 알고리즘&CS 스터디
+<https://github.com/Algorithm-sunmoon>
+
 
 - 2024_02_13
     - CodingTest Leve 1  >>  4문제
@@ -37,3 +40,11 @@ Today I Learned
         - L3 수준에서 외울 것들
         - L4 TCP, UDP
     - CodingTest Level 2 >> 1문제
+- 2024_02_20
+    - 네트워크 기본 (널널한 개발자)
+        - L4 TCP, UDP
+        - 웹을 이루는 핵심 기술
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+        - <https://www.acmicpc.net/problem/18258>
+        
