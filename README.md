@@ -48,3 +48,8 @@ Today I Learned
         - 백준 >> 1문제
         - <https://www.acmicpc.net/problem/18258>
         
+- 2024_02_21
+    - 알고리즘&CS 스터디
+        - 백준 >> 2문제
+        - <https://www.acmicpc.net/problem/11399>
+        - <https://www.acmicpc.net/problem/17265>
