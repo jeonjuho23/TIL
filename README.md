@@ -1,8 +1,11 @@
 # TIL
 Today I Learned
 
-> 알고리즘&CS 스터디
-<https://github.com/Algorithm-sunmoon>
+
+
+<details>
+<summary>TIL 정리</summary>
+<div markdown="1">
 
 
 - 2024_02_13
@@ -53,3 +56,12 @@ Today I Learned
         - 백준 >> 2문제
         - <https://www.acmicpc.net/problem/11399>
         - <https://www.acmicpc.net/problem/17265>
+
+
+</div>
+</details>
+<br>
+
+
+> 알고리즘&CS 스터디
+<https://github.com/Algorithm-sunmoon>
