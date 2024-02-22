@@ -49,14 +49,17 @@ Today I Learned
         - 웹을 이루는 핵심 기술
     - 알고리즘&CS 스터디
         - 백준 >> 1문제
-        - <https://www.acmicpc.net/problem/18258>
-        
+        - <https://www.acmicpc.net/problem/18258>      
 - 2024_02_21
     - 알고리즘&CS 스터디
         - 백준 >> 2문제
         - <https://www.acmicpc.net/problem/11399>
         - <https://www.acmicpc.net/problem/17265>
-
+- 2024_02_22
+    - 알고리즘&CS 스터디
+        - 백준 >> 2문제
+        - <https://www.acmicpc.net/problem/1620>
+        - <https://www.acmicpc.net/problem/20002>
 
 </div>
 </details>
