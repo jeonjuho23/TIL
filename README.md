@@ -60,6 +60,12 @@ Today I Learned
         - 백준 >> 2문제
         - <https://www.acmicpc.net/problem/1620>
         - <https://www.acmicpc.net/problem/20002>
+- 2024_02_24
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+        - 면접을 위한 CS 전공지식 노트
+            - 싱글톤 패턴
+            - 팩토리 패턴
 
 </div>
 </details>
