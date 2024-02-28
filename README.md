@@ -81,6 +81,17 @@ Today I Learned
             - MVC 패턴
             - MVP 패턴
             - MVVM 패턴
+    - 알고리즘&CS 스터디
+        - 백준 >> 2문제
+        - 면접을 위한 CS
+            - OOP
+            - SOLID
+            - 선언형 프로그래밍
+            - 명령형 (객체지향)
+            - 명령형 (절차지향)
+    - 사이드 프로젝트
+        - vue.js 학습
+            - <https://www.youtube.com/playlist?list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ->
 
 </div>
 </details>
