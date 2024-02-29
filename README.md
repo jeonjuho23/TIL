@@ -73,6 +73,7 @@ Today I Learned
             - 전략 패턴
             - 옵저버 패턴
             - 프록시 패턴과 프록시 서버
+  - 2024_02_27
     - 알고리즘&CS 스터디
         - 백준 >> 2문제
         - 면접을 위한 CS
@@ -81,6 +82,7 @@ Today I Learned
             - MVC 패턴
             - MVP 패턴
             - MVVM 패턴
+  - 2024_02_28    
     - 알고리즘&CS 스터디
         - 백준 >> 2문제
         - 면접을 위한 CS
@@ -92,6 +94,11 @@ Today I Learned
     - 사이드 프로젝트
         - vue.js 학습
             - <https://www.youtube.com/playlist?list=PLfLgtT94nNq3Br68sEe26jkOqCPK_8UQ->
+  - 2024_02_29
+     - 알고리즘&CS 스터디
+        - 백준 >> 2문제
+        - CS
+           - HTTP
 
 </div>
 </details>
