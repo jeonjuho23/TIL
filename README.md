@@ -99,7 +99,18 @@ Today I Learned
         - 백준 >> 2문제
         - CS
            - HTTP
-
+  - 2024_03_05
+     - 알고리즘&CS 스터디
+        - 백준 >> 2문제
+        - CS
+            - RESTful
+     - wanted 프리온보딩 백엔드 챌린지
+        - 1회차
+            - scaling을 고려한 서비스 아키텍처
+     - 사이드 프로젝트
+        - vue.js 학습
+            - 이전 학습 영상
+        
 </div>
 </details>
 <br>
