@@ -117,7 +117,12 @@ Today I Learned
             - SNS 뉴스 피드 서비스 설계
         - 사이드 프로젝트
             - vue.js 학습
-        
+    - 2024_03_07
+        - 알고리즘&CS 스터디
+            - 백준 >> 2문제
+        - 사이드 프로젝트
+            - vue.js
+            - github action
 </div>
 </details>
 <br>
