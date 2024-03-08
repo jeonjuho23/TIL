@@ -123,6 +123,15 @@ Today I Learned
         - 사이드 프로젝트
             - vue.js
             - github action
+    - 2024_03_08
+        - 알고리즘&CS 스터디
+            - 백준 >> 2문제
+        - 사이드 프로젝트
+            - vue.js
+                - Home 페이지 구현
+                - Login 페이지 구현
+                    - OAuth 2, JWT 적용 중
+                    
 </div>
 </details>
 <br>
