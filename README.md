@@ -5,8 +5,10 @@ Today I Learned
 
 
 <details>
-<summary>TIL 정리</summary>
-<div markdown="1">
+<summary h1> TIL 정리</summary>
+
+<details>
+<summary> 2월 </summary> 
 
 - 2024_02_13
     - CodingTest Leve 1  >>  4문제
@@ -99,6 +101,11 @@ Today I Learned
         - 백준 >> 2문제
         - CS
             - HTTP
+
+</details>
+<details>
+<summary> 3월 </summary>
+
 - 2024_03_05
     - 알고리즘&CS 스터디
         - 백준 >> 2문제
@@ -148,9 +155,7 @@ Today I Learned
         - 영상 스트리밍 및 업로드
         - GPT 활용
         - AWS ECS CI/CD
-
-
-</div>
+</details>
 </details>
 <br>
 
