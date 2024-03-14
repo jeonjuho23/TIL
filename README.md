@@ -155,6 +155,10 @@ Today I Learned
         - 영상 스트리밍 및 업로드
         - GPT 활용
         - AWS ECS CI/CD
+- 2024_03_14
+    - 사이드 프로젝트
+        - spring security + jwt +aouth2
+
 </details>
 </details>
 <br>
