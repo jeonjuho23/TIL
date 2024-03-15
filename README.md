@@ -157,7 +157,13 @@ Today I Learned
         - AWS ECS CI/CD
 - 2024_03_14
     - 사이드 프로젝트
-        - spring security + jwt +aouth2
+        - spring security + jwt + oauth2
+- 2024_03_15
+    - 사이드 프로젝트
+        - spring security + jwt + oauth2
+            - 소셜 로그인 구현
+                - 구글, 네이버, 카카오
+
 
 </details>
 </details>
