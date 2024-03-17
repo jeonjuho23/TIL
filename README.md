@@ -163,6 +163,13 @@ Today I Learned
         - spring security + jwt + oauth2
             - 소셜 로그인 구현
                 - 구글, 네이버, 카카오
+- 2024_03_15
+    - 사이드 프로젝트
+        -spring security + jwt + oauth2
+            - 로그인 문제 해결
+    - 알고리즘&CS 스터디
+        - DB
+            - 트랜잭션
 
 
 </details>
