@@ -176,7 +176,14 @@ Today I Learned
     - 사이드 프로젝트
         - Spring security + jwt + OAuth2
             - 로그인/로그아웃 API 구현
-
+- 2024_03_18
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+        - DB
+            - 무결성
+    - 사이드 프로젝트
+        - 로그인/로그아웃 Spring API 구현 완료
+        - 로그인 관련 Vue.js 구현 완료
 
 </details>
 </details>
