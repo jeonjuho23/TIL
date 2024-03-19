@@ -184,6 +184,14 @@ Today I Learned
     - 사이드 프로젝트
         - 로그인/로그아웃 Spring API 구현 완료
         - 로그인 관련 Vue.js 구현 완료
+- 2024_03_19
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+        - DB
+            - ERD, 정규화
+    - 사이드 프로젝트
+        - 로그인 모달창 추가
+        - openvidu를 사용한 WebRTC 방법 학습
 
 </details>
 </details>
