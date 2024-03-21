@@ -199,6 +199,13 @@ Today I Learned
             - 인덱스
     - 사이드 프로젝트
         - openvidu
+- 2024_03_21
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 사이드 프로젝트
+        - 개발 순서 변경
+            - openvidu를 활용한 화상회의를 후순위로 변경
+        - Redis로 Refresh Token을 관리하기 위해 spring data redis 연결
 
 </details>
 </details>
