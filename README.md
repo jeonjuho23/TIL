@@ -206,6 +206,11 @@ Today I Learned
         - 개발 순서 변경
             - openvidu를 활용한 화상회의를 후순위로 변경
         - Redis로 Refresh Token을 관리하기 위해 spring data redis 연결
+- 2024_03_22
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+        - 정처기 실기
+            - 2023 3회차 (11개 맞음)
 
 </details>
 </details>
