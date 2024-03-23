@@ -210,7 +210,15 @@ Today I Learned
     - 알고리즘&CS 스터디
         - 백준 >> 1문제
         - 정처기 실기
-            - 2023 3회차 (11개 맞음)
+            - 2023 3회차 (12개 맞음)
+- 2024_03_23
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 사이드 프로젝트 (Study with Music)
+        - 팀원이 생겼다..!(ㅋㅋ) 설계부터 다시 해보자고!!
+        - 설계
+            - 기능 요구사항 작성
+
 
 </details>
 </details>
@@ -219,3 +227,6 @@ Today I Learned
 
 > 알고리즘&CS 스터디
 <https://github.com/Algorithm-sunmoon>
+
+> Study with Music
+<https://iamjeonjuho.notion.site/Study-With-Music-d9fe31b7988140aa93040d02c9abaf6c?pvs=4>
