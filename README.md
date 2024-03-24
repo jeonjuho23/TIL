@@ -218,6 +218,18 @@ Today I Learned
         - 팀원이 생겼다..!(ㅋㅋ) 설계부터 다시 해보자고!!
         - 설계
             - 기능 요구사항 작성
+- 2024_03_24
+    - 알고리즘&CS 스터디
+        - 백준 >> 2문제
+    - 사이드 프로젝트
+        - 설계
+            - 기능 요구사항 작성 완료
+    - Spring Security
+        - 블로그에 구조와 로그인 동작 과정에 관해 작성
+            <https://wbsf.tistory.com/entry/Spring-Security%EA%B0%80-%EB%AD%90%EC%A3%A0>
+    - 원티드 BE 챌린지 4월
+        - 사전과제
+            - Docker 설치 및 image 띄우기
 
 
 </details>
