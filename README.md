@@ -261,14 +261,13 @@ Today I Learned
         - 백준 >> 1문제
     - 사이드 프로젝트
         - TDD 적용을 위한 사전 학습 중
-
-
-
-- 2024_03_26
+- 2024_03_30
     - 알고리즘&CS 스터디
-        - 정처기 실기
-            - 2023 2회차 해설
-
+        - 백준 >> 1문제
+    - OAuth2 관련 블로그 작성
+    <https://wbsf.tistory.com/entry/OAuth2%EA%B0%80-%EB%AD%90%EC%A3%A0>
+    - 사이드 프로젝트
+        - TDD 인프런 강의 수강
             
 
 </details>
