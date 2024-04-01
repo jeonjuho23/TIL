@@ -274,6 +274,18 @@ Today I Learned
     - 사이드 프로젝트
         - TDD 인프런 강의 수강
 
+</details>
+<details>
+<summary> 4월 </summary>
+
+- 2024_04_01
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 사이드 프로젝트
+        - TDD 인프런 강의 수강
+        - 간략하게나마 TDD 개발 순서 정리 완료...
+    - 정처기 실기 
+        - 2022년 2회
 
 </details>
 </details>
