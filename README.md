@@ -268,7 +268,12 @@ Today I Learned
     <https://wbsf.tistory.com/entry/OAuth2%EA%B0%80-%EB%AD%90%EC%A3%A0>
     - 사이드 프로젝트
         - TDD 인프런 강의 수강
-            
+- 2024_03_31
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 사이드 프로젝트
+        - TDD 인프런 강의 수강
+
 
 </details>
 </details>
