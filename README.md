@@ -316,6 +316,8 @@ Today I Learned
             - 커맨드
             - 컴포즈
             - 볼륨
+    - Spring Security 프레임워크로 OAuth2 로그인
+    <https://wbsf.tistory.com/entry/Spring-Security-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-OAuth2-%EB%A1%9C%EA%B7%B8%EC%9D%B8>
 
 </details>
 </details>
