@@ -307,7 +307,7 @@ Today I Learned
     - 알고리즘&CS 스터디
         - 백준 >> 1문제
     - 사이드 프로젝트
-        - ATDD로 API 구현
+        - TDD로 API 구현
             - 사용자 등록
             - 사용자 조회
             - 게시글 작성
@@ -318,6 +318,13 @@ Today I Learned
             - 볼륨
     - Spring Security 프레임워크로 OAuth2 로그인
     <https://wbsf.tistory.com/entry/Spring-Security-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-OAuth2-%EB%A1%9C%EA%B7%B8%EC%9D%B8>
+- 2024_0407
+    - 사이드 프로젝트
+        -TDD로 API 구현
+            - 기존 사용자 기능 삭제
+            - 사용자 회원가입
+            - 사용자 중복확인
+            - 게시글 리스트 조회
 
 </details>
 </details>
