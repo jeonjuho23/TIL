@@ -332,7 +332,13 @@ Today I Learned
         - TDD로 API 구현
             - 게시글 조회
                 - 응답 데이터 최적화
-
+- 2024_0410
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 사이드 프로젝트
+        - TDD로 API 구현
+            - 게시글 세부 조회
+            
 </details>
 </details>
 <br>
