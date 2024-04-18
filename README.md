@@ -360,7 +360,10 @@ Today I Learned
     - 블로그 작성
         - 로그인 성공 시 JWT 발급
         <https://wbsf.tistory.com/entry/Spring-Security-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%98%EB%A9%B4-JWT-%EB%B0%9C%EA%B8%89%ED%95%98%EA%B8%B0>
-
+- 2024_0418
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 이력서 수정 중...
 
 
 </details>
