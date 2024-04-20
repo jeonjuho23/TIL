@@ -368,7 +368,10 @@ Today I Learned
     - 사이드 프로젝트 - Study with Music
         - 화면 설계
             - Figma
-
+- 2024_0420
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 정처기 준비
 
 
 </details>
