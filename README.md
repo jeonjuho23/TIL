@@ -364,6 +364,11 @@ Today I Learned
     - 알고리즘&CS 스터디
         - 백준 >> 1문제
     - 이력서 수정 중...
+- 2024_0419
+    - 사이드 프로젝트 - Study with Music
+        - 화면 설계
+            - Figma
+
 
 
 </details>
