@@ -389,7 +389,10 @@ Today I Learned
     - 정처기 이론 공부
     - 우아한 테크 세미나
         - Java Virtual Thread
+- 2024_0424
+    - 정처기 실기 이론 및 기출문제 풀이
 
+    
 
 </details>
 </details>
