@@ -410,6 +410,10 @@ Today I Learned
         - 백준 >> 1문제
     - 스프링 부트 
         - 컨트롤러 예외처리 @ControllerAdvice로 하기
+- 2024_0501
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 원티드 Docker 강의 재수강
 
 
 </details>
