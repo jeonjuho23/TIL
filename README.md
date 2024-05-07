@@ -422,10 +422,16 @@ Today I Learned
     - 알고리즘&CS 스터디
         - 백준 >> 1문제
     - Spring JPA
-        - 김영한 인프런 강의 섹션 1,2 수강 (Spring JPA 활용)    
+        - 김영한 인프런 강의 섹션 1,2 수강 (Spring JPA 활용 2)    
 - 2024_0504
     - 알고리즘&CS 스터디
         - 백준 >> 1문제
+- 2024_0506
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - Spring JPA
+        - 김영한 인프런 강의 섹션 3 수강 (Spring JPA 활용 2)
+
 
 
 </details>
