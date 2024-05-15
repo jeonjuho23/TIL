@@ -472,6 +472,10 @@ Today I Learned
         - TCP/IP
     - TDD 연습 프로젝트
         - ATDD 방법 학습
+- 2024_0515
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 이력서 및 포트폴리오 작성
         
 
 </details>
