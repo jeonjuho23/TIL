@@ -463,9 +463,15 @@ Today I Learned
     - 알고리즘&CS 스터디
         - OSI 7 계층 발표
         - 백준 >> 1문제
-    - 무중단 배포 구현
-        - AWS EC2, Nginx, Docker, Jenkins, Github webhook
-        - Github 레포지토리에 push를 통한 스프링 부트 프로젝트 빌드 및 배포 파이프라인 구축
+    - TDD 연습 프로젝트
+        - 배포 파이프라인 구축
+            - AWS EC2, Nginx, Docker, Jenkins, Github webhook
+            - Github 레포지토리에 push를 통한 스프링 부트 프로젝트 빌드 및 배포 파이프라인 구축
+- 2024_0514
+    - 알고리즘&CS 스터디
+        - TCP/IP
+    - TDD 연습 프로젝트
+        - ATDD 방법 학습
         
 
 </details>
