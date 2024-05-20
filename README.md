@@ -480,6 +480,13 @@ Today I Learned
     - 알고리즘&CS 스터디
         - 백준 >> 1문제
     - 진로 및 이력서 멘토링
+- 2024_0520
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+    - 이력서 작성
+    - 무중단 배포
+        - Spring의 profile을 사용하여 포트 번호 변경
+        - Graceful Shutdown
 
 
 
