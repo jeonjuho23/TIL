@@ -487,7 +487,9 @@ Today I Learned
     - 무중단 배포
         - Spring의 profile을 사용하여 포트 번호 변경
         - Graceful Shutdown
-
+- 2024_0520
+    - 무중단 배포
+    - 중견기업 박람회 방문
 
 
 </details>
