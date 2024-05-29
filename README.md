@@ -512,6 +512,11 @@ Today I Learned
         - 백준 >> 2문제
         - HTTP
     - 무중단 배포
+- 2024_0528
+    - 알고리즘&CS 스터디
+        - 운영체제
+            - Race Condition, Critical Section
+    - TDD
 
 
 </details>
