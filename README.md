@@ -517,6 +517,11 @@ Today I Learned
         - 운영체제
             - Race Condition, Critical Section
     - TDD
+- 2024_0529
+    - 알고리즘&CS 스터디
+        - 백준 >> 1문제
+        - 운영체제
+            - 가상화
 
 
 </details>
