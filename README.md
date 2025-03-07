@@ -2,10 +2,21 @@
 
 Today I Learned
 
+---
 
+<br/>
 
 <details>
-<summary h1> TIL 정리</summary>
+<summary h1> 2025_02_03 ~ 2025_03_06 </summary>
+
+- 노션에 작성
+
+</details>
+<br>
+
+
+<details hidden = "hidden">
+<summary h1> 2024 02 ~ 04월 TIL 정리</summary>
 
 <details>
 <summary> 2월 </summary> 
@@ -537,7 +548,3 @@ Today I Learned
 </details>
 </details>
 <br>
-
-
-> 알고리즘&CS 스터디
-<https://github.com/Algorithm-sunmoon>
